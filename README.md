@@ -6,7 +6,12 @@
   <img src="https://github.com/user-attachments/assets/a756608b-b79b-4b66-9502-aa6fc9148519" width=40%>
 </p>
 
+## **PROJETOS**
+## **SQL**
 
+## **EXCEL**
 
+## **PYTHON**
 
+## **R**
 
