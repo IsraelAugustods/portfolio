@@ -9,9 +9,5 @@
 ## **PROJETOS**
 ## **SQL**
 
-## **EXCEL**
-
 ## **PYTHON**
-
-## **R**
 
