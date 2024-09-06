@@ -7,7 +7,30 @@
 </p>
 
 ## **PROJETOS**
-## **SQL**
 
-## **PYTHON**
+## **PYTHON:**
+### [**Análise Exploratória de Dados das Lojas Rossmann**](https://github.com/IsraelAugustods/eda_rossmann)
+ - Realizei uma análise exploratória utilizando Python e bibliotecas de dados com em responder perguntas de negócio. 
+ - O gráfico abaixo apresenta que lojas com mais promoções consecutivas vendem menos.
+ - **[Acesse meu estudo para conferir outros achados!](https://github.com/IsraelAugustods/eda_rossmann)**
+<p align="center">
+  <img alt="rossmann" width="65%" src="https://github.com/user-attachments/assets/8f5837a6-9c07-4526-b088-ea5cd14cc6ad">
+</p>
+
+## **SOBRE**
+
+Sou um biólogo apaixonado por análise de dados, dedicado a ajudar empresas em suas tomadas de decisão, a resolver problemas de negócio e a gerar valor a partir de dados. 
+
+Utilizo ferramentas como SQL, Python, Excel e Power BI para extrair, transformar, analisar e visualizar dados de diversas fontes e formatos. Esse trabalho resulta em insights e relatórios que suportam a tomada de decisões. Além disso, na faculdade, trabalhei com a linguagem R, utilizando dados para responder a perguntas ecológicas. Também atuei de forma voluntária durante a graduação com bancos de dados de proteínas, onde fui responsável pelo processo de ETL, trabalhando com APIs.
+
+Atualmente, meu objetivo é me desenvolver ainda mais na área de análise de dados, o que tenho feito por meio de cursos de Storytelling e Gamification.
+
+
+## CONTATO
+Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:
+
+**Links para me acharem:**
+* [LinkedIn](https://www.linkedin.com/in/israelaugustoalmeida/)
+* [GitHub](https://github.com/IsraelAugustods)
+
 
