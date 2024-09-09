@@ -17,6 +17,16 @@
   <img alt="rossmann" width="65%" src="https://github.com/user-attachments/assets/8f5837a6-9c07-4526-b088-ea5cd14cc6ad">
 </p>
 
+## **SQL**
+### [**CAR PRIME**](https://github.com/IsraelAugustods/car_prime_sql)
+ - Este estudo tem como foco desenvolver minhas habilidades em SQL, abrangendo desde consultas básicas até conceitos avançados.
+ - A tabela abaixo apresenta desempenho mensal da empresa em relação a algumas métricas.
+ - **[Acesse meu estudo para conferir outros achados!](https://github.com/IsraelAugustods/car_prime_sql)**
+<p align="center">
+  <img alt="carprime" width="65%" src="https://github.com/user-attachments/assets/54a4af59-eacb-418a-8cc7-c9adf8e57f66">
+</p>
+
+
 ## **SOBRE**
 
 Sou um biólogo apaixonado por análise de dados, dedicado a ajudar empresas em suas tomadas de decisão, a resolver problemas de negócio e a gerar valor a partir de dados. 
