@@ -10,7 +10,7 @@
 
 ## **PYTHON:**
 ### [**Análise Exploratória de Dados das Lojas Rossmann**](https://github.com/IsraelAugustods/eda_rossmann)
- - Realizei uma análise exploratória utilizando Python e bibliotecas de dados com em responder perguntas de negócio. 
+ - Realizei uma análise exploratória utilizando Python e bibliotecas de dados com intuito em responder perguntas de negócio. 
  - O gráfico abaixo apresenta que lojas com mais promoções consecutivas vendem menos.
  - **[Acesse meu estudo para conferir outros achados!](https://github.com/IsraelAugustods/eda_rossmann)**
 <p align="center">
@@ -29,7 +29,7 @@
 ## **EXCEL:**
 ### [**Salário na Área de Dados**](https://github.com/IsraelAugustods/data_salaries)
 
- - Realizei uma análise exploratória utilizando Python e bibliotecas de dados com em responder perguntas de negócio. 
+ - Realizei uma análise exploratória utilizando Excel e Jamovi com o intuito de responder perguntas de negócio. 
  - O gráfico abaixo apresenta que o nível Executive apresenta consistentemente os maiores salários em todas as categorias de tamanho de empresa (Large, Medium, Small).
  - **[Acesse meu estudo para conferir outros achados!](https://github.com/IsraelAugustods/data_salaries)**
 
