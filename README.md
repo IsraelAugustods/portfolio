@@ -26,6 +26,16 @@
   <img alt="carprime" width="65%" src="https://github.com/user-attachments/assets/54a4af59-eacb-418a-8cc7-c9adf8e57f66">
 </p>
 
+## **EXCEL:**
+### [**Salário na Área de Dados**](https://github.com/IsraelAugustods/data_salaries)
+
+ - Realizei uma análise exploratória utilizando Python e bibliotecas de dados com em responder perguntas de negócio. 
+ - O gráfico abaixo apresenta que o nível Executive apresenta consistentemente os maiores salários em todas as categorias de tamanho de empresa (Large, Medium, Small).
+ - **[Acesse meu estudo para conferir outros achados!](https://github.com/IsraelAugustods/data_salaries)**
+
+<p align="center">
+  <img alt="salario" width="65%" src="https://github.com/user-attachments/assets/9979182d-a24d-4052-a129-60ba6adc83d4">
+</p>
 
 ## **SOBRE**
 
