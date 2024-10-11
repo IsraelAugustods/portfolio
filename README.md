@@ -41,7 +41,7 @@
 
  - Realizei uma análise exploratória utilizando Excel e Jamovi com o intuito de responder perguntas de negócio. 
  - Neste gráfico, temos duas linhas do tempo relacionadas ao faturamento, correspondentes aos anos de 2020 e 2021.
- - **[Acesse meu estudo para conferir outros achados!](https://github.com/IsraelAugustods/data_salaries)**
+ - **[Acesse meu estudo para conferir outros achados!](https://github.com/IsraelAugustods/sales_adidas)**
 
 <p align="center">
   <img alt="g1" width="65%" src="https://github.com/user-attachments/assets/699fb3b3-0116-4948-af56-4ba19905525d">
