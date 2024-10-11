@@ -37,6 +37,17 @@
   <img alt="salario" width="65%" src="https://github.com/user-attachments/assets/9979182d-a24d-4052-a129-60ba6adc83d4">
 </p>
 
+### [**Vendas Adidas**](https://github.com/IsraelAugustods/sales_adidas)
+
+ - Realizei uma análise exploratória utilizando Excel e Jamovi com o intuito de responder perguntas de negócio. 
+ - Neste gráfico, temos duas linhas do tempo relacionadas ao faturamento, correspondentes aos anos de 2020 e 2021.
+ - **[Acesse meu estudo para conferir outros achados!](https://github.com/IsraelAugustods/data_salaries)**
+
+<p align="center">
+  <img alt="g1" width="65%" src="https://github.com/user-attachments/assets/699fb3b3-0116-4948-af56-4ba19905525d">
+</p>
+
+
 ## **SOBRE**
 
 Sou um biólogo apaixonado por análise de dados, dedicado a ajudar empresas em suas tomadas de decisão, a resolver problemas de negócio e a gerar valor a partir de dados. 
