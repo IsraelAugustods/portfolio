@@ -26,6 +26,15 @@
   <img alt="carprime" width="65%" src="https://github.com/user-attachments/assets/54a4af59-eacb-418a-8cc7-c9adf8e57f66">
 </p>
 
+### [**E-Commerce no Brasil**](https://github.com/IsraelAugustods/sales_brazil_olist)
+ - Este estudo tem como foco responder perguntas de negócio utilizando SQL.
+ - A tabela abaixo apresenta a avaliação média dos produtos em relação à quantidade de fotos (atratividade visual).
+ - **[Acesse meu estudo para conferir outros achados!](https://github.com/IsraelAugustods/sales_brazil_olist)**
+<p align="center">
+  <img alt="brasil" width="65%" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*H7GtSVvL6vB4mump-bSqkg.png">
+</p>
+
+
 ## **EXCEL:**
 ### [**Salário na Área de Dados**](https://github.com/IsraelAugustods/data_salaries)
 
