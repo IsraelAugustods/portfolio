@@ -59,11 +59,9 @@
 
 ## **SOBRE**
 
-Sou um biólogo apaixonado por análise de dados, dedicado a ajudar empresas em suas tomadas de decisão, a resolver problemas de negócio e a gerar valor a partir de dados. 
+Sou um biólogo com experiência em Python e R, movido pela vontade de transformar dados em insights úteis para apoiar a tomada de decisões nas empresas. Minha trajetória inclui projetos pessoais e acadêmicos focados em extração, transformação e análise de dados, onde desenvolvo relatórios e visualizações que tornam os dados mais acessíveis e compreensíveis.
 
-Utilizo ferramentas como SQL, Python, Excel e Power BI para extrair, transformar, analisar e visualizar dados de diversas fontes e formatos. Esse trabalho resulta em insights e relatórios que suportam a tomada de decisões. Além disso, na faculdade, trabalhei com a linguagem R, utilizando dados para responder a perguntas ecológicas. Também atuei de forma voluntária durante a graduação com bancos de dados de proteínas, onde fui responsável pelo processo de ETL, trabalhando com APIs.
-
-Atualmente, meu objetivo é me desenvolver ainda mais na área de análise de dados, o que tenho feito por meio de cursos de Storytelling e Gamification.
+Durante a graduação, usei a linguagem R para responder a perguntas ecológicas, e participei de projetos voluntários com bancos de dados de proteínas, cuidando da integração e do processo de ETL com APIs. Essas experiências fortaleceram meu interesse pela análise de dados e meu conhecimento técnico.
 
 
 ## CONTATO
